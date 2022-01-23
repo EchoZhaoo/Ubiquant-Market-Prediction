@@ -19,5 +19,15 @@ Given the timestamp each investment happend and some features associated with ea
  ### Notebooks
  - We made multiple jupyternotebooks for the analysis as well as modeing. 
 
+## To-Do
+- EDA: 
+  - [ ] Time Analysis for Target and Features -> Autocorrelation Check
+- Modeling: 
+  - [ ] LightGBM
+  - [ ] CatBoost
+  - [ ] LSTM
+  - [ ] RNN
+  - [ ] 1DCNN
+ 
 ## Contact Us
 If you have any questions about this project, feel free to send us an email to `zhao1020@umn.edu`. We'd be more than happy to discuss about it!
